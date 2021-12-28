@@ -1153,6 +1153,7 @@ User research helps you understand user behaviors, needs, and motivations throug
 - [GoToMeeting](https://www.gotomeeting.com/en-gb) — a simple, extraordinarily powerful web conferencing service.
 - [Handrail](https://handrailux.com/) — end-to-end, collaborative user research and insights platform — plan research, collect and analyze data, and share your findings.
 - [JotForm](https://www.jotform.com) — create online forms, get an email for each response, collect data. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
+- [Links List](https://linkslist.app/) — create and share lists of links    
 - [Lookback](https://lookback.io/) — remotely run, record, and take notes for your user research sessions, either with a live product or with a prototype.
 - [MineTime](https://minetime.ai) — a free calendar app with smart scheduling and time analytics features. ![free.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/free.svg)
 - [Reflector](https://www.airsquirrels.com/reflector) — Reflector is a basic screen-mirroring and recording tool so you can conduct user tests remotely, using any existing wireframes or prototypes.
